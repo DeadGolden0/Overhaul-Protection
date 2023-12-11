@@ -24,7 +24,7 @@ To use **Overhaul-Protection**, you will need:
 
 ## 🖥️ Usage
 
-After installation, the addon automatically integrates with your server. Make sure to configure the ``sh_config.lua`` file to match your server's needs:
+After installation, the addon automatically integrates with your server. Make sure to configure the ``sh_config.lua`` file to match your server's needs.
 
 ## 🤝 Contributing
 
