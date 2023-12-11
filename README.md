@@ -23,8 +23,8 @@ To use **Overhaul-Protection**, you will need:
 3. Restart your server or reload the addons.
 
 ## 🖥️ Usage
-
-After installation, the addon automatically integrates with your server. Make sure to configure the ``sh_config.lua`` file to match your server's needs.
+> [!NOTE]
+> After installation, the addon automatically integrates with your server. Make sure to configure the ``sh_config.lua`` file to match your server's needs.
 
 ## 🤝 Contributing
 
