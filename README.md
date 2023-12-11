@@ -3,8 +3,9 @@ Welcome to the **Overhaul-Protection** repository! This Garry's Mod addon provid
 
 ## 🌟 Features
 
-- 🚫 **User Group Protection**: Control access based on user groups, with options for whitelisting and banning.
+- 🚫 **User Group Protection**: Manage permissions by controlling which SteamIDs have the necessary authorizations for staff member roles. This feature allows for precise assignment and management of staff privileges.
 - 🎭 **Anti-Spawn Protection**: Manage and restrict the spawning of entities, vehicles, weapons, NPCs, and more.
+- 🚷 **Prop & Context Menu Block**: Block the props menu and/or context menu for specific user groups or under certain conditions.
 - 📡 **Network Security**: Secure communication between client and server.
 - 📑 **Configurable Settings**: Customize settings to suit your server's needs.
 - 🌈 **Colorful Notifications**: Visual notifications for better interaction and feedback.
